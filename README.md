@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-destin-de-notre-amour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Le Destin De Notre Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-destin-de-notre-amour/) |
+| **Get License** | [Get License For Le Destin De Notre Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-destin-de-notre-amour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de Paris, on ride dans la nuit
+> Ton parfum sur ma peau, baby, tu m'éblouis
+> Ton corps en mouvement, la piste est enflammée
+> Le destin de notre amour ne peut s'effacer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
